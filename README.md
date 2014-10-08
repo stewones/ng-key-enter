@@ -12,7 +12,7 @@ Include `ng-key-enter.js` in your HTML document somewhere after you have set
 up AngularJS.
 
 ```html
-<script src="ng-key-enter.js">`
+<script src="ng-key-enter.js">
 ```
 
 Make sure that `ng-key-enter` is a dependency in your AngularJS app.
